@@ -1,0 +1,142 @@
+"Neighbourhood ID","Neighbourhood Name","Rate per 100,000 people","Case Count"
+1,"West Humber-Clairville",16672.670509126,5554
+2,"Mount Olive-Silverstone-Jamestown",16243.855070705,5353
+3,"Thistletown-Beaumond Heights",17364.864864865,1799
+4,"Rexdale-Kipling",13011.682021085,1370
+5,"Elms-Old Rexdale",14445.854483926,1366
+6,"Kingsview Village-The Westway",13418.181818182,2952
+7,"Willowridge-Martingrove-Richview",10132.695432389,2245
+8,"Humber Heights-Westmount",11755.571793935,1287
+9,"Edenbridge-Humber Valley",9243.643385903,1436
+10,"Princess-Rosethorn",7420.142973487,820
+11,"Eringate-Centennial-West Deane",8322.573703465,1547
+12,"Markland Wood",8252.795148759,871
+13,"Etobicoke West Mall",12086.428089129,1432
+14,"Islington-City Centre West",9798.703514159,4308
+15,"Kingsway South",6741.451839068,625
+16,"Stonegate-Queensway",8135.403776296,2038
+17,"Mimico (includes Humber Bay Shores)",11612.29537157,3944
+18,"New Toronto",9369.275058885,1074
+19,"Long Branch",8538.278460928,861
+20,"Alderwood",8470.217355235,1021
+21,"Humber Summit",15496.134020619,1924
+22,"Humbermede",18481.826954005,2873
+23,"Pelmo Park-Humberlea",15435.553068457,1655
+24,"Black Creek",16704.237015227,3631
+25,"Glenfield-Jane Heights",15657.079138106,4774
+26,"Downsview-Roding-CFB",17950.473582107,6292
+27,"York University Heights",16203.384916464,4471
+28,"Rustic",10421.486771955,1036
+29,"Maple Leaf",19384.828404708,1960
+30,"Brookhaven-Amesbury",13059.638452441,2319
+31,"Yorkdale-Glen Park",15921.372601999,2357
+32,"Englemount-Lawrence",14544.966922939,3254
+33,"Clanton Park",9731.665857212,1603
+34,"Bathurst Manor",15806.715806716,2509
+35,"Westminster-Branson",14379.234223948,3778
+36,"Newtonbrook West",13113.171918929,3125
+37,"Willowdale West",5910.486537553,1001
+38,"Lansing-Westgate",6415.491215046,1037
+39,"Bedford Park-Nortown",8990.359786538,2089
+40,"St.Andrew-Windfields",5642.263642488,1005
+41,"Bridle Path-Sunnybrook-York Mills",6237.858838765,578
+42,"Banbury-Don Mills",6528.254197509,1808
+43,"Victoria Village",11679.040548258,2045
+44,"Flemingdon Park",13235.763461451,2903
+45,"Parkwoods-Donalda",9007.326533544,3135
+46,"Pleasant View",8812.74497408,1394
+47,"Don Valley Village",7060.737126169,1910
+48,"Hillcrest Village",5580.488957128,945
+49,"Bayview Woods-Steeles",7564.239014748,995
+50,"Newtonbrook East",5118.966267006,824
+51,"Willowdale East",5405.083871991,2726
+52,"Bayview Village",5145.821648906,1101
+53,"Henry Farm",12395.853208675,1949
+54,"O'Connor-Parkview",9745.649263722,1820
+55,"Thorncliffe Park",13672.5412166,2886
+56,"Leaside-Bennington",6857.618255289,1154
+57,"Broadview North",9070.353943821,1043
+58,"Old East York",9076.13993285,838
+59,"Danforth East York",8061.699650757,1385
+60,"Woodbine-Lumsden",7450.731087095,586
+61,"Taylor-Massey",10865.268124721,1704
+62,"East End-Danforth",8236.284551705,1761
+63,"The Beaches",6231.742940604,1344
+64,"Woodbine Corridor",6825.611992664,856
+65,"Greenwood-Coxwell",7290.004855379,1051
+66,"Danforth",7366.02524312,712
+67,"Playter Estates-Danforth",8175.294720656,638
+68,"North Riverdale",6193.35347432,738
+69,"Blake-Jones",8101.462404555,626
+70,"South Riverdale",8071.459319845,2250
+71,"Cabbagetown-South St. James Town",8578.284343131,1001
+72,"Regent Park",10237.896880496,1106
+73,"Moss Park",10660.294547937,2186
+74,"North St. James Town",11571.31345689,2154
+75,"Church-Yonge Corridor",9227.823867262,2892
+76,"Bay Street Corridor",7469.860836531,1927
+77,"Waterfront Communities-The Island",9456.40465462,6233
+78,"Kensington-Chinatown",8643.076065756,1551
+79,"University",9556.986985671,727
+80,"Palmerston-Little Italy",6943.439895848,960
+81,"Trinity-Bellwoods",8148.10340662,1349
+82,"Niagara",8595.253367543,2680
+83,"Dufferin Grove",9350.869749682,1102
+84,"Little Portugal",9820.682563147,1528
+85,"South Parkdale",11368.941370314,2484
+86,"Roncesvalles",7513.022572459,1125
+87,"High Park-Swansea",7398.119122257,1770
+88,"High Park North",6655.536503926,1475
+89,"Runnymede-Bloor West Village",5958.291956306,600
+90,"Junction Area",9042.182931923,1299
+91,"Weston-Pelham Park",12047.215714543,1337
+92,"Corso Italia-Davenport",10521.474563079,1487
+93,"Dovercourt-Wallace Emerson-Junction",8660.750853242,3172
+94,"Wychwood",8244.476967036,1183
+95,"Annex",6859.726135098,2094
+96,"Casa Loma",7339.533187454,805
+97,"Yonge-St.Clair",5619.412515964,704
+98,"Rosedale-Moore Park",5955.168952827,1246
+99,"Mount Pleasant East",5847.988077496,981
+100,"Yonge-Eglinton",6042.142675806,714
+101,"Forest Hill South",5916.88408498,635
+102,"Forest Hill North",9175.386537561,1175
+103,"Lawrence Park South",5250.675275051,797
+104,"Mount Pleasant West",8490.120709421,2518
+105,"Lawrence Park North",5730.129390018,837
+106,"Humewood-Cedarvale",7664.462234598,1101
+107,"Oakwood Village",9948.13767091,2110
+108,"Briar Hill-Belgravia",12464.052746019,1777
+109,"Caledonia-Fairbank",13219.487694626,1316
+110,"Keelesdale-Eglinton West",13040.33279074,1442
+111,"Rockcliffe-Smythe",12919.176481165,2874
+112,"Beechborough-Greenbrook",14581.116010339,959
+113,"Weston",16707.425522454,3006
+114,"Lambton Baby Point",7288.666249217,582
+115,"Mount Dennis",13948.355771353,1896
+116,"Steeles",6835.072899322,1683
+117,"L'Amoreaux",8624.099288523,3794
+118,"Tam O'Shanter-Sullivan",9112.43897107,2501
+119,"Wexford/Maryvale",11308.521689293,3157
+120,"Clairlea-Birchmount",13671.06433442,3689
+121,"Oakridge",12625.496569159,1748
+122,"Birchcliffe-Cliffside",8797.272441793,1961
+123,"Cliffcrest",9952.933793536,1586
+124,"Kennedy Park",12678.85300473,2171
+125,"Ionview",7763.360457444,1059
+126,"Dorset Park",13458.384993801,3365
+127,"Bendale",11184.913217623,3351
+128,"Agincourt South-Malvern West",8115.502799175,1928
+129,"Agincourt North",6996.874248617,2037
+130,"Milliken",6171.910281499,1640
+131,"Rouge",12022.539573297,5590
+132,"Malvern",12857.925743252,5631
+133,"Centennial Scarborough",9033.078880407,1207
+134,"Highland Creek",12165.839603009,1520
+135,"Morningside",12323.116585506,2151
+136,"West Hill",10904.643691589,2987
+137,"Woburn",12317.472188464,6588
+138,"Eglinton East",12197.049525817,2778
+139,"Scarborough Village",15911.265247548,2661
+140,"Guildwood",9125.743672482,905
+,"Missing Address/Postal Code",,6025
